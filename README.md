@@ -1,9 +1,6 @@
 # Olá, me chamo Albano Lemes
 Sou estudante de Ciência da Computação na Unviversidade Federal de Goiás - UFG. Pretendo compartilhar por aqui alguns projetos pessoais e da faculdade para maior discussão e aprendizado.
 
-![](https://nirzak-streak-stats.vercel.app/?user=mrmichelledev&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmichelledev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## Tech
 <div style="display: inline_block">
   <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
